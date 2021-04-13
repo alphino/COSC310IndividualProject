@@ -5,6 +5,6 @@ The goal of this project is to develop an interactive conversational agent that 
 
 I have added the following:
 
-Yahoo! Answers API -aggregate answers from Yahoo! for your own conversation use
+Dropbox API -search and share information with the conversation agent
 
 Twitter  API -pull  the  latest  tweets  from  a  famous  person,  parse  that  tweet,  and integrate relevant information into yourconversation
